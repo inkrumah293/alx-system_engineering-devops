@@ -1,1 +1,1 @@
-Display current directory contents in a long format
+Create a symbolic link to /bin/ls, named __ls__
