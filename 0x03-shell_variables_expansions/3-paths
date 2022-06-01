@@ -1,3 +1,2 @@
 #!/bin/bash
-ls | wc -l
-Create a script that counts the number of directories in the PATH
+echo $PATH | tr : n | wc -l
